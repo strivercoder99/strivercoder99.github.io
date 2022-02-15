@@ -29,3 +29,7 @@ body
         {
             color: blue;
         }
+        .button
+        {
+            cursor: pointer;
+        }
