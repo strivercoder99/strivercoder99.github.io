@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokeDex</title>
+    <link rel="stylesheet" href="pokestyle.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>POKEDEX <img src="pokeball2.jpg" alt="404" height= "30px" width = "30px"></h1>
+    
+    <div style="text-align: center;">  <small> Search Pokemon: </small>
+   <p style="align-items: center;"></p> <input type="text" name="" id="pokemon" placeholder=" for e.g. 'charizard'">
+    <button onclick="demo()" class = "butt">🔍</button>
+</div>
+
+    <script>
+        function demo()
+        {
+            var pokcode = document.querySelector("#pokemon").value;
+            $.ajax({
+                type: "GET",
+                url: "https://pokeapi.co/api/v2/pokemon/"+pokcode,
+                success: function(response)
+                {
+                    //console.log(response);
+                   confirm("Type: " + response.types[0].type.name +"\n" + "Abilities: "  + response.abilities[1].ability.name + " ," + response.abilities[1].ability.name + " \n" + "Height:" + response.height+ "\n" + " Weight:" + response.weight + "\n" + "Moves:" + response.moves[0].move.name + "," +response.moves[5].move.name + " ," + response.moves[10].move.name + " ," + response.moves[15].move.name + "\n");
+                }
+            })
+        }
+    </script>
+
+    <img src="pika.gif" alt="404 Not Found" class="center" >
+   <h4 style="text-align: center;"> <strong>Made with ❤ By Aditya Raj Sinha</strong> </h4>
+
+    
+</body>
+</html>
