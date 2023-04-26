@@ -24,4 +24,4 @@
 ![Image Link](https://github.com/strivercoder99/strivercoder99.github.io/blob/main/Media/ss1.png)
 
 
-![Image Link](https://github.com/strivercoder99/strivercoder99.github.io/blob/main/Media/ss1.png)
+![Image Link](https://github.com/strivercoder99/strivercoder99.github.io/blob/main/Media/ss2.png)
