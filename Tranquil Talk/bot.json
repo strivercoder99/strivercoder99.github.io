@@ -1,0 +1,99 @@
+[
+  {
+    "type": "greeting",
+    "user_input": ["hello", "hi", "hey", "hlo","hii","hiii","hola"],
+    "bot_response": "Hello there! How can I assist you today?",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["About","Introduce","do","you","objective","Tell","Yourself"],
+    "bot_response": ["I am Tranquil talk, an AI based emotional Chatbot.My user-friendly and intuitive chat interface allows individuals to freely express their thoughts and emotions without fear of judgment. Through interactive and compassionate interactions, I aim to provide genuine understanding and empathy to those seeking comfort and relief.\n\nWhen users share their concerns, I actively listen and comprehend their unique experiences. By analyzing their messages, I can identify keywords and phrases related to stress, anxiety, and other emotional struggles. This enables me to respond with personalized advice, mindfulness exercises, and self-care techniques tailored to each individual's specific needs."],
+    "required_words": []
+
+  },
+  {
+    "type": "message",
+    "user_input": ["Who","developed","developer","made","you"],
+    "bot_response": ["I am developed by Aditya Raj Sinha, He is a final year CSE student."],
+    "required_words": []
+  },
+  {
+    "type": "greeting",
+    "user_input": ["see you", "goodbye", "bye","tata","later"],
+    "bot_response": "Take care and see you later!",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["mental health", "mental illness", "emotional well-being","upset","sad","anxious","self-confident","help"],
+    "bot_response": "Taking care of your mental health is crucial for overall well-being. Mental health includes emotional, psychological, and social well-being. If you're struggling, consider seeking support from a mental health professional. There's no shame in reaching out for help, and you don't have to go through it alone. Remember, you deserve to prioritize your mental well-being just as much as your physical health.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["depression", "anxiety", "stress", "therapy", "counseling"],
+    "bot_response": "Dealing with depression, anxiety, or stress can be challenging and overwhelming. These conditions are common and treatable. If you're experiencing persistent feelings of sadness, fear, or tension, consider talking to a therapist or counselor. They can provide valuable support, coping strategies, and help you navigate through difficult emotions. Remember, seeking professional help is a brave step towards healing, and it's okay to ask for support.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["self-care", "mindfulness", "meditation", "relaxation"],
+    "bot_response": "Practicing self-care, mindfulness, and meditation can significantly impact your mental well-being. Self-care involves taking time for activities that nurture your mind and body, such as exercise, hobbies, or spending time with loved ones. Mindfulness and meditation can help you become more aware of your thoughts and emotions, promoting a sense of inner peace and resilience to stress. Remember to be kind to yourself and make self-care a regular part of your routine.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["support", "mental health", "help", "resources"],
+    "bot_response": "If you need immediate support, don't hesitate to reach out to a helpline or mental health organization in your area. There are various resources available, including crisis hotlines, online forums, and community support groups. Remember that seeking help is a sign of strength, and there are caring professionals and individuals ready to assist you on your journey to better mental health. You are not alone, and there's a whole network of support available for you.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["anxiety disorders", "anxious", "fear", "worry"],
+    "bot_response": "Anxiety disorders can be quite distressing and can lead to excessive fear, worry, or nervousness. It's essential to recognize that anxiety is a valid condition, and seeking help is essential. If you're experiencing persistent anxiety that interferes with your daily life, consider speaking to a mental health professional. They can offer effective treatments, coping strategies, and support to manage anxiety and improve your well-being. Remember, taking the first step towards managing anxiety can lead to a more fulfilling and balanced life.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["depression", "depressed", "mood", "sadness", "hopelessness"],
+    "bot_response": "Depression can significantly impact one's mood and lead to feelings of sadness, hopelessness, and a loss of interest in activities. It's essential to understand that depression is a medical condition and not a sign of weakness. If you or someone you know is struggling with depression, consider reaching out to a mental health professional. Effective treatments and support are available to help individuals manage depression and find hope for the future. Remember, you deserve support and care during challenging times.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["autism", "autistic", "neurodevelopmental", "social challenges"],
+    "bot_response": "Autism, or autism spectrum disorder (ASD), is a neurodevelopmental condition that can affect social communication, behavior, and interactions. It's important to approach autism with understanding and support. If you or someone you care about is on the autism spectrum and could benefit from assistance, consider seeking guidance from professionals with expertise in autism and related services. Early intervention and appropriate support can make a significant positive impact on the lives of individuals with autism. Remember, each person with autism is unique and deserves acceptance and understanding.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["fear of being judged", "social anxiety", "self-conscious", "embarrassment"],
+    "bot_response": "The fear of being judged or experiencing social anxiety can be challenging to cope with and might affect various aspects of life. Remember that you're not alone in feeling this way, and it's okay to seek help. If social anxiety or the fear of judgment is affecting your daily life or relationships, consider reaching out to a mental health professional. They can provide support and therapeutic techniques to manage these feelings and improve your social well-being. Remember, you are worthy of love and belonging, and seeking help can empower you to overcome these challenges.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["suicide prevention", "suicidal thoughts", "crisis", "hope", "suicide","Harm","self-harm","problems","death","No hope"],
+    "bot_response": "If you or someone you know is experiencing suicidal thoughts or going through a crisis, please know that help is available. Reach out to a suicide prevention hotline or a mental health professional immediately. Remember, there is hope, and you don't have to face this alone. People care about your well-being and are ready to listen and provide support. It takes courage to seek help, and reaching out can be a life-saving decision. Your life matters, and there are caring individuals who want to help you find hope and healing.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["loneliness", "isolation", "connecting with others", "social support","lonely","unfriendly","friends"],
+    "bot_response": "Feeling lonely or isolated can be challenging, and it's essential to remember that reaching out for social support is important for your well-being. Try connecting with friends, family, or joining social groups to reduce feelings of loneliness. Additionally, engaging in activities that interest you can provide opportunities to meet like-minded individuals. Remember, you don't have to navigate through loneliness alone, and seeking meaningful connections can contribute to a more fulfilling life.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["work-related stress", "work-life balance", "burnout", "workplace well-being","work","stress","pressure","workload","bear","pain"],
+    "bot_response": "Balancing work and personal life is essential for maintaining well-being. If work-related stress is taking a toll on you, consider setting boundaries and prioritizing self-care. Taking regular breaks, engaging in hobbies, and seeking support from colleagues or supervisors can contribute to a healthier work-life balance. If you're experiencing burnout, it's okay to ask for help and delegate tasks when possible. Remember, your well-being is important, and finding a balance between work and personal life can lead to increased productivity and happiness.",
+    "required_words": []
+  },
+  {
+    "type": "message",
+    "user_input": ["failure", "heartbreak", "exam failure", "academic stress"],
+    "bot_response": "Experiencing failure, heartbreak, or exam-related stress can be disheartening. Remember that setbacks are a natural part of life, and it's okay to feel overwhelmed. Allow yourself to process your emotions and reach out to friends, family, or a counselor for support. Remember, failure doesn't define your worth, and learning from challenges can lead to personal growth. When facing academic stress, break tasks into manageable steps, and practice self-compassion. You have the strength to overcome these obstacles and emerge stronger.",
+    "required_words": []
+  }
+]
