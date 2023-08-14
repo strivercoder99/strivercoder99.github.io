@@ -25,7 +25,6 @@ Tranquil Talk is a mental health chatbot that provides support and information. 
 
 4. Inside the "chatbot-ui" folder, go to the "src" directory.
 5. Type "npm start" and press Enter in the Command Prompt.
-6. Type "npm start" and press Enter in the Command Prompt.
 
      ```shell 
      npm start
