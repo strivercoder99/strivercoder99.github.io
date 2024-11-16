@@ -1,0 +1,17 @@
+.app-container {
+    display: grid;
+  }
+  
+  .app-head, .app-mnpage {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .app-head {
+    margin-bottom: 0;
+  }
+  
+  .app-mnpage {
+    margin-top: 0;
+  }
+  

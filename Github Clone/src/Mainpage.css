@@ -1,0 +1,124 @@
+/* General layout for Mainpage */
+.main-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Heading Section */
+  .heading {
+    text-align: center;
+    color: white;
+    background-color: rgba(5, 8, 68, 255);
+    padding: 50px 0;
+  }
+  
+  .heading h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .heading p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  /* Email Button Section */
+  .email-btn {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .inp-mail {
+    width: 325px;
+    height: 40px;
+    border-radius: 7px;
+    padding: 0 10px;
+    border: 2px solid #ddd;
+  }
+  
+  .btn-email {
+    background-color: #168b37;
+    color: white;
+    width: 180px;
+    height: 40px;
+    border-radius: 7px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-email:hover {
+    background-color: #56b772;
+  }
+  
+  .try-copilot {
+    padding-top: 15px;
+  }
+  
+  .btn-copilot {
+    background-color: rgb(37, 34, 115);
+    color: white;
+    border-radius: 6px;
+    width: 180px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-copilot:hover {
+    background-color: rgb(102, 99, 177);
+  }
+  
+  /* Features Section */
+  .features {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #f5f5f5;
+    color: black;
+  }
+  
+  .features h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .feature-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .feature-card:hover{
+    cursor: pointer;
+    background-color: rgb(247, 234, 234);
+  }
+  
+  .feature-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .feature-card p {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  /* Footer Section */
+  .footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+  }
+  
+  .footer p {
+    font-size: 0.9rem;
+  }
+  
